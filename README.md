@@ -9,7 +9,9 @@ After you execute it for the first time and open it you will be given the option
 
 To restore a saved snapshot you may either select it (from a latest and 3 older snapshots), right click on the systray icon and select "run once" or by hitting Ctrl+S (can be changed in the options).
 
-You may also add exclusions, make autosize/autoposition your windows continuously and it also supports command line switches. 
+You may also add exclusions, make autosize/autoposition your windows continuously and it also supports command line switches.
+
+![](http://www.dnkoukas.xyz/imgshr/main.JPG)
 
 ## License
 
