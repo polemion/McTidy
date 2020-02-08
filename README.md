@@ -11,7 +11,7 @@ To restore a saved snapshot you may either select it (from a latest and 3 older 
 
 You may also add exclusions, make autosize/autoposition your windows continuously and it also supports command line arguments.
 
-For more information and screenshots please visit my [website](http://www.dnkoukas.xyz).
+For more information and screenshots please visit my [website](https://www.dnkoukas.xyz/mctidy/).
 
 ![](http://www.dnkoukas.xyz/imgshr/main.JPG)
 
