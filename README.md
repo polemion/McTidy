@@ -3,7 +3,7 @@
 
 McTidy is a desktop organizer which can store and restore the positions and sizes of windows.
 
-It is tested and working on Windows 7 and 10 for single or multiscreen enviroments.
+It is tested and working on Windows 7 and 10 for single or multi-screen environments.
 It will take a snapshot of your windows and restore them to their saved position and size.
 After you execute it for the first time and open it you will be given the option to take a snapshot. 
 
