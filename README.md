@@ -1,5 +1,5 @@
 
-# [McTidy](http://www.dnkoukas.xyz) [![Github All Releases](https://img.shields.io/github/downloads/polemion/McTidy/total.svg)]()
+# [McTidy](https://www.dnkoukas.xyz) [![Github All Releases](https://img.shields.io/github/downloads/polemion/McTidy/total.svg)]()
 
 McTidy is a desktop organizer which can store and restore the positions and sizes of windows.
 
