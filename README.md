@@ -11,6 +11,8 @@ To restore a saved snapshot you may either select it (from a latest and 3 older 
 
 You may also add exclusions, make autosize/autoposition your windows continuously and it also supports command line arguments.
 
+[Click here to download the latest release.](https://github.com/polemion/McTidy/releases)
+
 For more information and screenshots please visit my [website](https://www.dnkoukas.xyz/mctidy/).
 
 ![](https://cdn-dnkoukas.pressidium.com/wp-content/uploads/2020/02/mctidy1.jpg)
