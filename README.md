@@ -1,5 +1,5 @@
 
-# [McTidy](http://www.dnkoukas.xyz)
+# [McTidy](http://www.dnkoukas.xyz) [![Github All Releases](https://img.shields.io/github/downloads/polemion/McTidy/total.svg)]()
 
 McTidy is a desktop organizer which can store and restore the positions and sizes of windows.
 
@@ -13,8 +13,9 @@ You may also add exclusions, make autosize/autoposition your windows continuousl
 
 For more information and screenshots please visit my [website](https://www.dnkoukas.xyz/mctidy/).
 
-![](http://www.dnkoukas.xyz/imgshr/main.JPG)
+![](https://cdn-dnkoukas.pressidium.com/wp-content/uploads/2020/02/mctidy1.jpg)
 
 ## License
 
 This project is made available under the AGPL 3.0 or later License.
+
