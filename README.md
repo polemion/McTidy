@@ -18,3 +18,4 @@ For more information and screenshots please visit my [website](https://www.dnkou
 ## License
 
 This project is made available under the AGPL 3.0 or later License.
+
